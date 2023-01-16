@@ -1,0 +1,23 @@
+.login-container {
+    background: url('../../public/images/img-home.jpg') center center/cover no-repeat;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    color: azure;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
+    object-fit: contain;
+  }
+
+  .btns{
+    background-color: 'rgba(52, 52, 52, 0.8)';
+    color: azure;
+  }
+  .passWord{
+    margin-left: 50px;
+  }
+  .signup1{
+    margin-bottom: 0px;
+  }
