@@ -1,1 +1,1 @@
-barterxtrade.netlify.app
+Deployed site: https://barterxtrade.netlify.app
